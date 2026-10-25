@@ -1,0 +1,10 @@
+# ADMM Turtle — Python dependencies
+# Install with:  pip install -r requirements.txt
+#
+# Tkinter is part of the Python standard library but ships separately on
+# some Linux distros.  See the README for platform-specific instructions.
+ 
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+ 
