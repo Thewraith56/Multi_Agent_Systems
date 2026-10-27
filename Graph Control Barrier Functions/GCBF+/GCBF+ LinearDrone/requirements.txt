@@ -1,0 +1,11 @@
+# CPU install for the GCBF+ LinearDrone simulation UI.
+jax>=0.4.30
+flax>=0.7.2
+jraph>=0.0.6.dev0
+jaxtyping>=0.2.21
+einops>=0.6.1
+numpy>=1.25.2
+scipy>=1.11.2
+matplotlib>=3.7.2
+PySide6>=6.6
+pyyaml>=6.0.1
