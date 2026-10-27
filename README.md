@@ -4,6 +4,6 @@ Researching multi-agent trajectory guidance, navigation, control, and coordinati
 
 ## Repository Structure
 
-- **`Single Agent and Miscellaneous/`**  Contains single-agent projects and background research.
+- **`Single Agent and Miscellaneous/`**  Contains single-agent work  and background research.
 
 - **`Graph Control Barrier Functions/`**  Explores Graph Control Barrier Functions (GCBFs) for training safe, coordinated policies that scale to large numbers of agents.
