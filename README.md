@@ -7,3 +7,5 @@ Researching multi-agent trajectory guidance, navigation, control, and coordinati
 - **`Single Agent and Miscellaneous/`**  Contains single-agent work  and background research.
 
 - **`Graph Control Barrier Functions/`**  Explores Graph Control Barrier Functions (GCBFs) for training safe, coordinated policies that scale to large numbers of agents.
+
+- **`Guidance of Autonomous Vehicles`**  Course Project
