@@ -1,4 +1,4 @@
-## GCBF+
+## Graph CBFs (GCBF+)
 GCBF+ learns a  neural Graph Control Barrier Function that certifies collision avoidance for a multi-agent swarm of any size, using only local neighbor and LiDAR information.
 It uses a graph attention network trained on just 8 agents, with a loss that imitates a CBF-QP controller so that safety and goal-reaching don't conflict.
 It scales to 1024 agents in simulation and was demonstrated on a real Crazyflie drone swarm.
